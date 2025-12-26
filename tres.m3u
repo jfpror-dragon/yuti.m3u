@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="35" tvg-name="Golden" tvg-logo="https://i.imgur.com/golden-logo.png" group-title="Películas",Golden
+http://181.119.85.222:8000/play/a00u/index.m3u8
+
+#EXTINF:-1 tvg-id="36" tvg-name="Golden Premiere" tvg-logo="https://i.imgur.com/golden-premiere-logo.png" group-title="Películas",Golden Premiere
+http://200.125.170.122:8000/play/a00l
+
+#EXTINF:-1 tvg-id="37" tvg-name="Cine Canal" tvg-logo="https://i.imgur.com/cinecanal-logo.png" group-title="Películas",Cine Canal
+http://181.119.86.68:8000/play/b036/index.m3u8
+
+
+#EXTINF:-1 tvg-id="39" tvg-name="FX" tvg-logo="https://i.imgur.com/fx-logo.png" group-title="Películas",FX
+http://181.119.85.222:8000/play/a00s/index.m3u8
+
+#EXTINF:-1 tvg-id="40" tvg-name="De Pelicula" tvg-logo="https://i.imgur.com/depelicula-logo.png" group-title="Películas",De Pelicula
+http://181.119.85.222:8000/play/a013/index.m3u8
+
+#EXTINF:-1 tvg-id="41" tvg-name="SONY MOVIES HD" tvg-logo="https://i.imgur.com/sony-movies-logo.png" group-title="Películas",SONY MOVIES HD
+http://179.51.136.19:8000/play/a1aa/index.m3u8
+
+#EXTINF:-1 tvg-id="42" tvg-name="SPACE" tvg-logo="https://i.imgur.com/space-logo.png" group-title="Películas",SPACE
+http://181.78.106.127:9000/play/ca072/index.m3u8
+
+#EXTINF:-1 tvg-id="43" tvg-name="STAR" tvg-logo="https://i.imgur.com/star-logo.png" group-title="Películas",STAR
+http://181.119.86.68:8000/play/b014/index.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="STAR CHANNEL SD" tvg-logo="https://i.imgur.com/star-logo.png" group-title="Películas",STAR CHANNEL SD
+http://200.60.124.19:29000/play/a01r
+
+#EXTINF:-1 tvg-id="45" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://i.imgur.com/studio-universal-logo.png" group-title="Películas",STUDIO UNIVERSAL
+http://181.119.86.68:8000/play/c024/index.m3u8
+
+#EXTINF:-1 tvg-id="46" tvg-name="TCM" tvg-logo="https://i.imgur.com/tcm-logo.png" group-title="Películas",TCM
+http://200.60.124.19:29000/play/a01s/index.m3u8
+
+#EXTINF:-1 tvg-id="47" tvg-name="TNT" tvg-logo="https://i.imgur.com/tnt-logo.png" group-title="Películas",TNT
+http://179.51.136.19:8000/play/a1af/index.m3u8
+
+#EXTINF:-1 tvg-id="48" tvg-name="TNT SERIES" tvg-logo="https://i.imgur.com/tnt-series-logo.png" group-title="Series",TNT SERIES
+http://179.51.136.19:8000/play/a1al/index.m3u8
+
+#EXTINF:-1 tvg-id="49" tvg-name="Universal TV" tvg-logo="https://i.imgur.com/universal-tv-logo.png" group-title="Series",Universal TV
+http://181.119.85.222:8000/play/a00x/index.m3u8
+
+#EXTINF:-1 tvg-id="50" tvg-name="Warner HD" tvg-logo="https://i.imgur.com/warner-logo.png" group-title="Películas",Warner HD
+http://179.51.136.19:8000/play/a0wx/index.m3u8
+
+#EXTINF:-1 tvg-id="51" tvg-name="WARNER SD" tvg-logo="https://i.imgur.com/warner-logo.png" group-title="Películas",WARNER SD
+http://200.60.124.19:29000/play/a013
+
+#EXTINF:-1 tvg-id="52" tvg-name="SONY HD" tvg-logo="https://i.imgur.com/sony-logo.png" group-title="Películas",SONY HD
+http://181.119.86.68:8000/play/c023/index.m3u8
+
+#EXTINF:-1 tvg-id="53" tvg-name="AMC" tvg-logo="https://i.imgur.com/amc-logo.png" group-title="Películas",AMC
+http://181.78.106.127:9000/play/ca080/index.m3u8
+
+#EXTINF:-1 tvg-id="54" tvg-name="AXN HD" tvg-logo="https://i.imgur.com/axn-logo.png" group-title="Películas",AXN HD
+http://181.119.85.222:8000/play/a01y/index.m3u8
+
+#EXTINF:-1 tvg-id="55" tvg-name="PARAMOUNT" tvg-logo="https://i.imgur.com/paramount-logo.png" group-title="Películas",PARAMOUNT
+http://179.51.136.19:8000/play/a1am/index.m3u8
