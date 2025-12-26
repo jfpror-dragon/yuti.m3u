@@ -1,9 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="35" tvg-name="Golden" tvg-logo="https://i.imgur.com/golden-logo.png" group-title="Películas",Golden
-http://181.119.85.222:8000/play/a00u/index.m3u8
-
-#EXTINF:-1 tvg-id="36" tvg-name="Golden Premiere" tvg-logo="https://i.imgur.com/golden-premiere-logo.png" group-title="Películas",Golden Premiere
-http://200.125.170.122:8000/play/a00l
 
 #EXTINF:-1 tvg-id="37" tvg-name="Cine Canal" tvg-logo="https://i.imgur.com/cinecanal-logo.png" group-title="Películas",Cine Canal
 http://181.119.86.68:8000/play/b036/index.m3u8
@@ -104,3 +99,4 @@ https://stream-cdn-iad.vaughnsoft.net/play/live_terror_mania.flv
 https://stream-cdn-iad.vaughnsoft.net/play/live_peliculas_mania.flv
 #EXTINF:-1,naman
 https://stream-cdn-iad.vaughnsoft.net/play/live_naman.flv
+
