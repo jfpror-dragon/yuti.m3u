@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="37" tvg-name="Cine Canal" tvg-logo="https://i.imgur.com/cinecanal-logo.png" group-title="Películas",Cine Canal
-https://stream-cdn-iad3.vaughnsoft.net/play/live_simpson_maniahd193.flv
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
 #EXTINF:-1 tvg-id="40" tvg-name="De Pelicula" tvg-logo="https://i.imgur.com/depelicula-logo.png" group-title="Películas",De Pelicula
 http://181.119.85.222:8000/play/a013/index.m3u8
