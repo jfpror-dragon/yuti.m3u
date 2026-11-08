@@ -1,14 +1,101 @@
 #EXTM3U
 
-#EXTINF:-1,azteca 7
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
-#EXTINF:-1,azteca 1
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:0 tvg-id="UniversalChannel.ar" group-title="Channels",Universal TV
+https://srregio.online/php/tele_m3u.php?canal=universaltv&u=regio36&exp=1794174537&sig=6b6fe73dc6ce92de52db82055ccb0edb88653c888ed3a2daee26c86f98d81cb8&f=.m3u8
+#EXTINF:0 tvg-id="TNT.mx" group-title="Channels",TNT
+https://srregio.online/php/tele_m3u.php?canal=tnt&u=regio36&exp=1794174537&sig=648bf4a16cce614723e1b0f3e2e0d92ad54a3d7499e1cc85011a069975f01ef4&f=.m3u8
+#EXTINF:0 tvg-id="TNTSeries.cl" group-title="Channels",TNT Series
+https://srregio.online/php/tele_m3u.php?canal=tntseries&u=regio36&exp=1794174537&sig=7ce39043876e74b740cb21913922a55c9f1c5fe856fe86d67aad78edbc55762b&f=.m3u8
+#EXTINF:0 tvg-id="otr" group-title="Channels",Star Channel
+https://srregio.online/php/tele_m3u.php?canal=starchannel&u=regio36&exp=1794174537&sig=39714539bfb6a2350f19b7c9a06a53ba4d5c0cbc32ffe42cf4dd4820cf1ac0b4&f=.m3u8
+#EXTINF:0 tvg-id="CinemaxO.mx" group-title="Channels",Cinemax
+https://srregio.online/php/tele_m3u.php?canal=cinemax&u=regio36&exp=1794174537&sig=6743f6c7e53b5264810d02d515a319dd8248d6e8951d63cf882e7828b7872737&f=.m3u8
+#EXTINF:0 tvg-id="Space.mx" group-title="Channels",Space
+https://srregio.online/php/tele_m3u.php?canal=space&u=regio36&exp=1794174537&sig=ff77737d15285d1ba5a7867df6138a034176d4b9c1196f8becf5adede949f588&f=.m3u8
+#EXTINF:0 tvg-id="WarnerChannel.mx" group-title="Channels",Warner Channel
+https://srregio.online/php/tele_m3u.php?canal=warnerchannel&u=regio36&exp=1794174537&sig=679a9d0dc0c7ae4ef3142399cd0bd6b97d235826d81ce60932e78a78dd6e55cb&f=.m3u8
+#EXTINF:0 tvg-id="CinecanalW.mx" group-title="Channels",Cinecanal
+https://srregio.online/php/tele_m3u.php?canal=cinecanal&u=regio36&exp=1794174537&sig=40a58016cbd5b695b5402cee5077b9643b77e81c6b3217464806a252d97bcf87&f=.m3u8
+#EXTINF:0 tvg-id="FX.mx" group-title="Channels",FX
+https://srregio.online/php/tele_m3u.php?canal=fx&u=regio36&exp=1794174537&sig=1b43c5aebaba4ccc5a9bdab354e081c3bfdfe46b28b452739e645ca7d88e9991&f=.m3u8
+#EXTINF:0 tvg-id="AXN.mx" group-title="Channels",AXN
+https://srregio.online/php/tele_m3u.php?canal=axn&u=regio36&exp=1794174537&sig=e0b66c644c86101bf3a1829367fec72bcf146d88bd6ce5b5ecc7b6eae250f000&f=.m3u8
+#EXTINF:0 tvg-id="AMC.mx" group-title="Channels",AMC
+https://srregio.online/php/tele_m3u.php?canal=amc&u=regio36&exp=1794174537&sig=4ebe790e8a260d486028d81d0bdb04197a4ddb4bfa9521550e5c7a811b84281e&f=.m3u8
+#EXTINF:0 tvg-id="StudioUniversal.mx" group-title="Channels",Studio Universal
+https://srregio.online/php/tele_m3u.php?canal=studiouniversal&u=regio36&exp=1794174537&sig=6f217d3d2abaf96a3d0f16e2441c6b8595d79ab5bbb5b20721d9dcdc3998e124&f=.m3u8
 
-#EXTINF:-1,adn 40
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:0 tvg-id="Golden.mx" group-title="Channels",Golden
+https://srregio.online/php/tele_m3u.php?canal=golden&u=regio36&exp=1794174537&sig=fb5c68933d38ee2ef7fa387b4e1b12dea8cb4458f8b64518dd4caaeb65ac741c&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Golden Plus
+https://srregio.online/php/tele_m3u.php?canal=goldenplus&u=regio36&exp=1794174537&sig=e568d5560927b27e6de02cff53a082017f4c4bd53380ecb61cc593f64e873dfe&f=.m3u8
+#EXTINF:0 tvg-id="GoldenEdge.mx" group-title="Channels",Golden Edge
+https://srregio.online/php/tele_m3u.php?canal=goldenedge&u=regio36&exp=1794174537&sig=f6153a7da309c2fed8efc70bef7086cd334d9a46d9c35514eb7adb6e31276f97&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Golden Premier
+https://srregio.online/php/tele_m3u.php?canal=goldenpremier&u=regio36&exp=1794174537&sig=42e8935717c2c63b52f545dca207246533f1d4301ffd8a447bd8865228e339f4&f=.m3u8
+#EXTINF:0 tvg-id="Sony.br" group-title="Channels",Canal Sony
+https://srregio.online/php/tele_m3u.php?canal=canalsony&u=regio36&exp=1794174537&sig=fec0e05609b43f0b859eb42615a954013a68a82da95eb9a39d7a6031d5d9ad91&f=.m3u8
+#EXTINF:0 tvg-id="DistritoComedia.mx" group-title="Channels",Distrito Comedia
+https://srregio.online/php/tele_m3u.php?canal=distritocomedia&u=regio36&exp=1794174537&sig=9fcd1f323f87687f5e956263085e9909daee09c622b45061dd11049ec44f5f9d&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Eventos
+https://srregio.online/php/tele_m3u.php?canal=eventos&u=regio36&exp=1794174537&sig=c4ed4c7a476e57ad8bf80f13205d4ee88953900a94b4f880e85b73415fec6fa5&f=.m3u8
 
-#EXTINF:-1,multimedios mty
-https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
+#EXTINF:0 tvg-id="disney" group-title="Channels",DISNEY
+https://srregio.online/php/regiotv_external.php?canal=DISNEY&u=regio36&exp=1794174537&sig=158ee7cce4e88f766b3cd7708e17af65a593387244d2e9400e12126d37a0a5c8&f=.m3u8
+
+#EXTINF:0 tvg-id="HBOHD.mx" group-title="Channels",HBO
+https://srregio.online/php/regiotv_external.php?canal=HBO&u=regio36&exp=1794174537&sig=882c09b3d789e31e0091fc8604c712ec867a23c1470b471c4ae9bd8b94552850&f=.m3u8
+#EXTINF:0 tvg-id="HBO2.mx" group-title="Channels",HBO 2
+https://srregio.online/php/regiotv_external.php?canal=HBO%202&u=regio36&exp=1794174537&sig=06c4ff46e46b4b1030b153ba4230e1f6b00637badf0b00239612cbb128743f75&f=.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",AZTECA INTERNACIONAL
+https://srregio.online/php/regiotv_external.php?canal=AZTECA%20INTERNACIONAL&u=regio36&exp=1794174537&sig=c53fc3e8f22abe0a69d4c6672a5ab1d55d0732b8b83b745d43a51bdf876338ad&f=.m3u8
+#EXTINF:0 tvg-id="ImagenTV.mx" group-title="Channels",IMAGEN TV
+https://srregio.online/php/regiotv_external.php?canal=IMAGEN%20TV&u=regio36&exp=1794174537&sig=a24891ee46ac0e6e7b7c39295a8f7217045b50f669d0e8a2263e501349aaa07a&f=.m3u8
+#EXTINF:0 tvg-id="MilenioTV.mx" group-title="Channels",MILENIO
+https://srregio.online/php/regiotv_external.php?canal=MILENIO&u=regio36&exp=1794174537&sig=faea255348f25076907da0d1922024ff36c97bf285b248d3f442d916f39f3583&f=.m3u8
+#EXTINF:0 tvg-id="Canal2HD.mx" group-title="Channels",LAS ESTRELLAS
+https://srregio.online/php/regiotv_external.php?canal=LAS%20ESTRELLAS&u=regio36&exp=1794174537&sig=57af3e2908779dfa789a10ddfcf3c13e2a8999bdf8e890a99d5c3a9fbde55ea3&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",POPCORN CENTRAL
+https://srregio.online/php/regiotv_external.php?canal=POPCORN%20CENTRAL&u=regio36&exp=1794174537&sig=316f070b949dc12ea844e0d8f178459eee4ccacf428a2779c2d5e2a94b9181a4&f=.m3u8
+
+
+#EXTINF:0 tvg-id="FX.mx" group-title="Channels",FX
+https://srregio.online/php/regiotv_external.php?canal=FX&u=regio36&exp=1794174537&sig=848657eb4e27dbe1fcb22828f81b12a434bec137bfdfc3c7dfee3e5cbb4e7bc0&f=.m3u8
+
+#EXTINF:0 tvg-id="CinemaxO.mx" group-title="Channels",CINEMAX
+https://srregio.online/php/regiotv_external.php?canal=CINEMAX&u=regio36&exp=1794174537&sig=49820d0a81ceb74d71bfb6f04099bd2025a62753b7490f0dab46a0ca6d4507ee&f=.m3u8
+
+#EXTINF:0 tvg-id="CinecanalW.mx" group-title="Channels",CINECANAL
+https://srregio.online/php/regiotv_external.php?canal=CINECANAL&u=regio36&exp=1794174537&sig=c79690bd2d38c8323fe56b26384a1f744f1ca2bf49218e9a449846c121f48fe4&f=.m3u8
+
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO ALT
+https://srregio.online/php/regiotv_external.php?canal=HBO%20ALT&u=regio36&exp=1794174537&sig=275389b9271cbc9151c63f96e47884a4c383006095a496e3cf08812d6d57389d&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO 2 ALT
+https://srregio.online/php/regiotv_external.php?canal=HBO%202%20ALT&u=regio36&exp=1794174537&sig=63a5e458f59b00ab80cb137f2c4427f9c29f313d05a8d7e1bab7e336ca6bd8c6&f=.m3u8
+#EXTINF:0 tvg-id="Hbofamily.br" group-title="Channels",HBO FAMILY
+https://srregio.online/php/regiotv_external.php?canal=HBO%20FAMILY&u=regio36&exp=1794174537&sig=29f6a03e1dc53d81b6673fb2688e409d73ac2b15d0346e262e5623e8e8e9ddf9&f=.m3u8
+#EXTINF:0 tvg-id="Maxprime.br" group-title="Channels",HBO XTREME
+https://srregio.online/php/regiotv_external.php?canal=HBO%20XTREME&u=regio36&exp=1794174537&sig=c7a0eb203129080642963bd414f4ec6ccf524b0d638a76a29e04060e87b81803&f=.m3u8
+
+
+#EXTINF:0 tvg-id="Space.mx" group-title="Channels",SPACE
+https://srregio.online/php/regiotv_external.php?canal=SPACE%202&u=regio36&exp=1794174537&sig=ba90e6df6b2a4a62266163fd19f979fa4a69a84b83b720c95577bfa924479ada&f=.m3u8
+#EXTINF:0 tvg-id="otr" group-title="Channels",STAR CHANNEL
+https://srregio.online/php/regiotv_external.php?canal=STAR%20CHANNEL%202&u=regio36&exp=1794174537&sig=d2f339404837260529413682857001acfedef3078455803124b1bdc57c2b6ec8&f=.m3u8
+#EXTINF:0 tvg-id="StudioUniversal.mx" group-title="Channels",STUDIO UNIVERSAL
+https://srregio.online/php/regiotv_external.php?canal=STUDIO%20UNIVERSAL%202&u=regio36&exp=1794174537&sig=4edd5151e7653eba686cafd097488962a3724e5f5ae60b5d2b76834dc86fd7e3&f=.m3u8
+
+#EXTINF:0 tvg-id="TNT.mx" group-title="Channels",TNT
+https://srregio.online/php/regiotv_external.php?canal=TNT%202&u=regio36&exp=1794174537&sig=2887bc4bf37b8a74c1d7b83fb935c729c6d8e0ed137eec4476143b58ea9b98b3&f=.m3u8
+#EXTINF:0 tvg-id="TNTHD.mx" group-title="Channels",TNT HD
+https://srregio.online/php/regiotv_external.php?canal=TNT%20HD&u=regio36&exp=1794174537&sig=4dcdb19002f01ee03e15458efd9f6faa880373ceb080dd37178eecc92e5240f0&f=.m3u8
+#EXTINF:0 tvg-id="TNTSeries.cl" group-title="Channels",TNT SERIES HD
+https://srregio.online/php/regiotv_external.php?canal=TNT%20SERIES%20HD&u=regio36&exp=1794174537&sig=cc601c2e2195ad5882913b240cd9560b3eb485df7641a710ba9e86e7d9eaa3aa&f=.m3u8
+#EXTINF:0 tvg-id="UniversalChannel.mx" group-title="Channels",UNIVERSAL CHANNEL
+https://srregio.online/php/regiotv_external.php?canal=UNIVERSAL%20CHANNEL&u=regio36&exp=1794174537&sig=a017722267fe2ad147f5b3b22cbe2f711a8a088762505bca75b426d1e0b958c7&f=.m3u8
+#EXTINF:0 tvg-id="Warnerchannel.br" group-title="Channels",WARNER
+https://srregio.online/php/regiotv_external.php?canal=WARNER&u=regio36&exp=1794174537&sig=993aba804510598360e70161e6eca8d4c086774d2164705675bf9ea63645126b&f=.m3u8
